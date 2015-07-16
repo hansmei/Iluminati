@@ -32,7 +32,7 @@ public class NetworkManager : MonoBehaviour {
 	private bool refreshing = false;
 	private HostData[] hostData;
 	//TODO: Add ability to allow hosting user to set this number
-	public int NumberOfPlayers = 1;
+	public int NumberOfPlayers = 2;
 	
 	public Dictionary<string, NetworkPlayer> players;
 	
