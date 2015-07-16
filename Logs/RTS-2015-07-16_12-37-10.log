@@ -1,0 +1,6 @@
+2015-07-16 12:37:13,556 [1] DEBUG NetworkManager [(null)] - Starting Server
+2015-07-16 12:37:13,582 [1] DEBUG NetworkManager [(null)] - startServer called
+2015-07-16 12:37:13,597 [1] DEBUG NetworkManager [(null)] - Server initialized
+2015-07-16 12:37:13,601 [1] DEBUG NetworkManager [(null)] - Expected player count : 2
+2015-07-16 12:37:14,078 [1] DEBUG NetworkManager [(null)] - Master Server Event: RegistrationSucceeded
+2015-07-16 12:37:16,791 [1] DEBUG NetworkManager [(null)] - Local server connection disconnected

@@ -1,0 +1,8 @@
+2015-07-16 12:33:19,498 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2015-07-16 12:33:20,240 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2015-07-16 12:33:22,449 [1] DEBUG NetworkManager [(null)] - Starting Server
+2015-07-16 12:33:22,455 [1] DEBUG NetworkManager [(null)] - startServer called
+2015-07-16 12:33:22,816 [1] DEBUG NetworkManager [(null)] - Server initialized
+2015-07-16 12:33:22,828 [1] DEBUG NetworkManager [(null)] - Expected player count : 2
+2015-07-16 12:33:23,317 [1] DEBUG NetworkManager [(null)] - Master Server Event: RegistrationSucceeded
+2015-07-16 12:33:28,299 [1] DEBUG NetworkManager [(null)] - Local server connection disconnected
